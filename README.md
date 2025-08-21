@@ -1,4 +1,4 @@
 # myCode-demo
 This is my first git repository
 <br>
-Author- Harsh Kumar Singh
+Author- Harsh Kumar Singh(Student)
